@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yogi9534
+- 👋 Hi, I’m Yogesh Singh
 - 👀 I’m interested in eLearning
 - 🌱 I’m currently learning gitHub
 - 💞️ I’m looking to collaborate on Google
